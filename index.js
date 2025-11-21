@@ -1,8 +1,7 @@
 function guessNumber(guess) {
   if (guess != 25) {
-    return; 
+    return "not it"; 
   }
-return "not it";
 }
 
 function strictGuessNumber(guess) {
