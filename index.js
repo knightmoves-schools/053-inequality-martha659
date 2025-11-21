@@ -9,5 +9,4 @@ function strictGuessNumber(guess) {
   if (typeof guess === "number" && guess !== 25) {
     return;
   }
-  return "not it"
 }
